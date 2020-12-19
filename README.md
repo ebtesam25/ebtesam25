@@ -28,8 +28,6 @@ I enjoy spending my time working on passion projects, participating in hackathon
 
 ### Stats 
 
-[![](https://gitwar.herokuapp.com/badge?username=ebtesam25&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Followers,Issues"/>
 
 [![Ebtesam's github stats](https://github-readme-stats.vercel.app/api?username=ebtesam25&count_private=true&theme=dark&show_icons=true&hide=stars&include_all_commits=true)](https://github.com/ebtesam25)
