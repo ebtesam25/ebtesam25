@@ -27,6 +27,8 @@ I enjoy spending my time working on passion projects, participating in hackathon
 - 🏆 **OpenHacks 2020 Winner, First Place Overall** *MLH, The OpenCode Foundation*
 
 ### Stats 
+
+## ⭐ Top 50 Active GitHub User in Saudi Arabia 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Followers,Issues"/>
 
 [![Ebtesam's github stats](https://github-readme-stats.vercel.app/api?username=ebtesam25&count_private=true&theme=dark&show_icons=true&hide=stars&include_all_commits=true)](https://github.com/ebtesam25)
@@ -37,7 +39,7 @@ I enjoy spending my time working on passion projects, participating in hackathon
 
 
 ### Random Dev Meme
-<img height="350px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
+<img height="350px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!--
 **ebtesam25/ebtesam25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
