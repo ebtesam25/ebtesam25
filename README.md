@@ -5,6 +5,12 @@ I enjoy spending my time working on passion projects, participating in hackathon
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ebtesamh.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:ebtesam@iut-dhaka.edu)](mailto:ebtesam@iut-dhaka.edu)
 ### Notable Awards
+- 🏆 **Major League Hacking Top 50 Class of 2021** 🏆
+- *I was named one of Major League Hacking’s (MLH) Top 50 Hackers in 2021. Out of the 135,000 students who participated in hackathons, my story was one of 50 that was recognized on this list due to my projects and impact on other students in the community.*
+
+
+- 🏆 **hello:world Winner, Sustainability Track, First Place** *University of California Berkeley, IBM*
+- 🏆 **HackIllinois Winner, Third Place Overall** *University of Illinois Urbana Champaign*
 - 🏆 **Finastra HackToTheFuture 2020 Finalist** *Finastra*
 - 🏆 **HackTX 2020 Winner** *Google Cloud COVID-19 Fund University of Texas Austin, Google, MLH*
 - 🏆 **HackTheRainbow 2020** *Runner Up NEAR Protocol*
