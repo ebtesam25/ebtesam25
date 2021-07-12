@@ -45,9 +45,6 @@ I enjoy spending my time working on passion projects, participating in hackathon
 
 
 
-
-### Random Dev Meme
-<img height="350px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!--
 **ebtesam25/ebtesam25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
